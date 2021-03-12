@@ -4,9 +4,10 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a CS student at Mansoura Unversity.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+- 🔭 I’m currently a IT student at GGSIPU,Delhi.
+- 📚 I’m currently learning  backend ReactJS.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kaushalendra-pandey-47a971192/) [Gmail](mailto:pandeysid713@gmail.com)
+- Proficiency: Python, Javascript,NodeJS,MongoDB.
 
 ⭐️ From [kaushalendra-pandey](https://github.com/kaushalendra-pandey)
