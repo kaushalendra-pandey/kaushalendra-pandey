@@ -9,4 +9,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kaushalendra-pandey-47a971192/) [Gmail](mailto:pandeysid713@gmail.com)
 
-⭐️ From [hazemessam](https://github.com/kaushalendra-pandey)
+⭐️ From [kaushalendra-pandey](https://github.com/kaushalendra-pandey)
