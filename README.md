@@ -8,6 +8,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📚 I am working on my own SaaS as well. It's related to customer-satisfaction, customer-onboarding and Prompt Engineering.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kaushalendra-pandey-47a971192/) [Gmail](mailto:pandeysid713@gmail.com)
 > - My coding profile - [Leetcode](https://leetcode.com/its_kaush/)
-- Proficiency: Python, Javascript,NodeJS,MongoDB.
+- Proficiency: Python, Javascript,NodeJS,MongoDB,React,Typescript,NextJS,AWS,Redis,ElasticSearch,LangChain
 
 ⭐️ From [kaushalendra-pandey](https://github.com/kaushalendra-pandey)
