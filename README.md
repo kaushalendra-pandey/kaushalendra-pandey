@@ -4,10 +4,10 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, learning new alogorithms, and building websites.
 
-- 🔭 I’m an IT student at GGSIPU,Delhi.
-- 📚 I’m currently learning NextJS.
-- 👯 I’m looking for a software development internship. 
+- 🔭 I am a software engineer at ZORP
+- 📚 I am working on my own SaaS as well. It's related to customer-satisfaction, customer-onboarding and Prompt Engineering.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kaushalendra-pandey-47a971192/) [Gmail](mailto:pandeysid713@gmail.com)
+> - My coding profile - [Leetcode](https://leetcode.com/its_kaush/)
 - Proficiency: Python, Javascript,NodeJS,MongoDB.
 
 ⭐️ From [kaushalendra-pandey](https://github.com/kaushalendra-pandey)
