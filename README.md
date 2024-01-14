@@ -11,3 +11,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 - Proficiency: Python, Javascript,NodeJS,MongoDB,React,Typescript,NextJS,AWS,Redis,ElasticSearch,LangChain
 
 ⭐️ From [kaushalendra-pandey](https://github.com/kaushalendra-pandey)
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/shreya-gr"><img src="https://github-readme-stats.vercel.app/api?username=kaushalendra-pandey&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shreya-gr's GitHub stats" /></a>
